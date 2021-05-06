@@ -10,11 +10,11 @@ Hiddenwave is a python based program for simple audio steganography. You can hid
 ## Installation
 
 ```
-git clone https://github.com/techchipnet/HiddenWave.git
-cd HiddenWave
+git clone https://github.com/hacksudo/SoundStegno.git
+cd SoundStegno
 ```
 ## Usage
-<p>Hiddenwave have two python scripts. </p>
+<p>SoundStegno have two python scripts. </p>
 <ul>
 <li><b>SoundStegno.py :</b> for hide secret information.</li>
 <li><b>ExWave.py :</b> for extract secret information for wave audio file.</li>
@@ -31,7 +31,7 @@ python3 SoundStegno.py -f Demo.wav -m "Secret Msg" -o output.wav
 python3 ExWave.py -f output.wav
 ```
 
-### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/UPQD7L9FNrk/0.jpg)](https://www.youtube.com/watch?v=UPQD7L9FNrk)
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+### youtube
+(https://www.youtube.com/hackshala)
+#### For More Video subcribe <a href="http://youtube.com/hackshala">hacksudo YouTube Channel</a>
 # SoundStegno
