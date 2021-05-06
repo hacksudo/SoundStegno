@@ -1,5 +1,5 @@
 # HiddinWave Ver 1.0
-# Powered by TechChip
+# Powered by Hacksudo
 # Hide your secret text in wave audio file.
 import os
 import wave
@@ -19,7 +19,7 @@ def cls():
   os.system("clear")
 def help():
   print("\033[92mHide Your Secret Message in Audio Wave File.\033[0m")
-  print ('''usage: HiddenWave.py [-h] [-f AUDIOFILE] [-m SECRETMSG] [-o OUTPUTFILE]
+  print ('''usage: SoundStegno.py [-h] [-f AUDIOFILE] [-m SECRETMSG] [-o OUTPUTFILE]
 
 optional arguments:
   -h, --help    show this help message and exit
@@ -33,8 +33,8 @@ def banner():
 | || (_)__| |__| |___ _ _ \ \    / /_ ___ _____
 | __ | / _` / _` / -_) ' \ \ \/\/ / _` \ V / -_)
 |_||_|_\__,_\__,_\___|_||_|_\_/\_/\__,_|\_/\___|
-                         |___|v1.0 \033[1;91mwww.techchip.net\033[0m
-\033[92mVisit for more tutorials : www.youtube.com/techchipnet\033[0m
+                         |___|v1.0 \033[1;91mwww.hacksudo.com\033[0m
+\033[92mVisit for more tutorials : www.youtube.com/hacksudo\033[0m
 \033[93mHide your text message in wave audio file like MR.ROBOT\033[0m''')
 
 def em_audio(af, string, output):
