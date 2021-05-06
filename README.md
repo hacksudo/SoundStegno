@@ -1,4 +1,5 @@
 # SoundStegno Hacksudo
+credit goes to #Techchip
 Embedding secret messages in wave audio file
 
 # What is SoundStegno
